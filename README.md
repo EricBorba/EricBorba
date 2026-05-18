@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=AI+Researcher+%E2%86%92+AI+Engineer+[...]
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=AI+Researcher+→+AI+Engineer;ML+Systems+&+Cloud+Infrastructure;Turning+Research+Into+Production" alt="AI Researcher to AI Engineer - ML Systems & Cloud Infrastructure">
 
 <h2>Eric Borba</h2>
 
@@ -28,7 +28,7 @@
 AI Research (PhD)  →  ML Engineering  →  Cloud Infrastructure for AI (AWS · Terraform)
 ```
 
-Started in academia studying how systems fail — modeling SSD and HDD reliability at HPC scale, published at ARCS 2024, funded by the EU Horizon 2020 IO-SEA project. That work pushed me toward en[...]
+Started in academia studying how systems fail — modeling SSD and HDD reliability at HPC scale, published at ARCS 2024, funded by the EU Horizon 2020 IO-SEA project. That work pushed me toward engineering solutions at scale.
 
 I bridge the gap between research innovation and real-world deployment. My focus: building reliable, scalable systems that turn cutting-edge ML into production-grade infrastructure.
 
@@ -62,7 +62,7 @@ I bridge the gap between research innovation and real-world deployment. My focus
 ## Featured Projects
 
 ### 🔬 [StorageFailurePredictor](https://github.com/EricBorba/StorageFailurePredictor)
-ML-driven reliability analysis of SSD and HDD failure in HPC burst buffers. Uses SMART telemetry from ~1M Alibaba SSDs and Backblaze HDDs to dynamically predict Mean Time to Failure (MTTF) using R[...]
+ML-driven reliability analysis of SSD and HDD failure in HPC burst buffers. Uses SMART telemetry from ~1M Alibaba SSDs and Backblaze HDDs to dynamically predict Mean Time to Failure (MTTF) using Random Forest and LSTM models.
 
 **Key Achievement:** Achieved 94% prediction accuracy, enabling proactive storage maintenance in high-performance computing environments.
 
@@ -71,7 +71,7 @@ ML-driven reliability analysis of SSD and HDD failure in HPC burst buffers. Uses
 ---
 
 ### 🚗 [AccidentPredictorApp](https://github.com/EricBorba/AccidentPredictorApp)
-End-to-end ML application that forecasts monthly road accident occurrences using Munich open traffic data. Trained, serialized, and served via a REST API — containerized with Docker and deployed[...]
+End-to-end ML application that forecasts monthly road accident occurrences using Munich open traffic data. Trained, serialized, and served via a REST API — containerized with Docker and deployed to Heroku for public access.
 
 **Impact:** Demonstrates full ML pipeline: data preprocessing → model training → API serving → cloud deployment.
 
@@ -80,7 +80,7 @@ End-to-end ML application that forecasts monthly road accident occurrences using
 ---
 
 ### ☁️ [three-tier-architecture-aws](https://github.com/EricBorba/three-tier-architecture-aws)
-Production-grade AWS 3-tier architecture: internet-facing ALB → 6 Node.js EC2 instances across 2 AZs with Auto Scaling → data tier. Custom VPC with network segmentation, security group chainin[...]
+Production-grade AWS 3-tier architecture: internet-facing ALB → 6 Node.js EC2 instances across 2 AZs with Auto Scaling → data tier. Custom VPC with network segmentation, security group chaining, and infrastructure-as-code via Terraform.
 
 **Key Feature:** Fully automated scaling and high availability across multiple availability zones.
 
