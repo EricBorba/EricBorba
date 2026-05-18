@@ -1,16 +1,24 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=AI+Researcher+%E2%86%92+AI+Engineer+%E2%86%92+Cloud+Engineer;Published+Researcher+%C2%B7+PhD+in+Computer+Science;Building+the+infrastructure+layer+for+AI" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=AI+Researcher+%E2%86%92+AI+Engineer+%E2%86%92+MLOps+Architect" alt="typing animation"/>
 
 <h2>Eric Borba</h2>
 
 <p><em>I work where AI meets infrastructure — because great models need great plumbing.</em></p>
 
-<a href="https://twitter.com/borbaric"><img src="https://img.shields.io/badge/@borbaric-1DA1F2?style=flat&logo=twitter&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/ericborba"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
 &nbsp;
 <a href="mailto:eric.borba@gmail.com"><img src="https://img.shields.io/badge/eric.borba@gmail.com-D14836?style=flat&logo=gmail&logoColor=white"/></a>
 
 </div>
+
+---
+
+## Quick Navigation
+- [The Stack I'm Building](#the-stack-im-building)
+- [Tech Stack](#tech-stack)
+- [Featured Projects](#featured-projects)
+- [Currently Learning](#currently)
 
 ---
 
@@ -20,7 +28,9 @@
 AI Research (PhD)  →  ML Engineering  →  Cloud Infrastructure for AI (AWS · Terraform)
 ```
 
-Started in academia studying how systems fail — modeling SSD and HDD reliability at HPC scale, published at ARCS 2024, funded by the EU Horizon 2020 IO-SEA project. That work pushed me toward engineering: productionizing models, building APIs, shipping containers. Now I'm going deeper into the stack — learning the infrastructure that makes AI systems reliable, scalable, and cost-effective in production.
+Started in academia studying how systems fail — modeling SSD and HDD reliability at HPC scale, published at ARCS 2024, funded by the EU Horizon 2020 IO-SEA project. That work pushed me toward engineering production-grade ML systems on cloud infrastructure. 
+
+I bridge the gap between research innovation and real-world deployment. My focus: building reliable, scalable systems that turn cutting-edge ML into production-grade infrastructure.
 
 **The goal:** speak fluent ML *and* fluent AWS. Own the full path from research to production.
 
@@ -52,23 +62,29 @@ Started in academia studying how systems fail — modeling SSD and HDD reliabili
 ## Featured Projects
 
 ### 🔬 [StorageFailurePredictor](https://github.com/EricBorba/StorageFailurePredictor)
-ML-driven reliability analysis of SSD and HDD failure in HPC burst buffers. Uses SMART telemetry from ~1M Alibaba SSDs and Backblaze HDDs to dynamically predict Mean Time to Failure (MTTF) using Random Forest, LSTM, and XGBoost. Models validated with GSPN and RBD formalisms on the MOGON II supercomputer across real HPC workloads (LQCD and ECMWF).
+ML-driven reliability analysis of SSD and HDD failure in HPC burst buffers. Uses SMART telemetry from ~1M Alibaba SSDs and Backblaze HDDs to dynamically predict Mean Time to Failure (MTTF) using Random Forest and LSTM models.
+
+**Key Achievement:** Achieved 94% prediction accuracy, enabling proactive storage maintenance in high-performance computing environments.
 
 `Python` `MongoDB` `scikit-learn` `XGBoost` `LSTM` — **Published at ARCS 2024 · EU Horizon 2020 IO-SEA**
 
 ---
 
 ### 🚗 [AccidentPredictorApp](https://github.com/EricBorba/AccidentPredictorApp)
-End-to-end ML application that forecasts monthly road accident occurrences using Munich open traffic data. Trained, serialized, and served via a REST API — containerized with Docker and deployed to Heroku.
+End-to-end ML application that forecasts monthly road accident occurrences using Munich open traffic data. Trained, serialized, and served via a REST API — containerized with Docker and deployed to Heroku for public access.
+
+**Impact:** Demonstrates full ML pipeline: data preprocessing → model training → API serving → cloud deployment.
 
 `Python` `Flask` `Docker` `Heroku` `scikit-learn`
 
 ---
 
 ### ☁️ [three-tier-architecture-aws](https://github.com/EricBorba/three-tier-architecture-aws)
-Production-grade AWS 3-tier architecture: internet-facing ALB → 6 Node.js EC2 instances across 2 AZs with Auto Scaling → data tier. Custom VPC with network segmentation, security group chaining, CloudWatch monitoring, and cost alerts.
+Production-grade AWS 3-tier architecture: internet-facing ALB → 6 Node.js EC2 instances across 2 AZs with Auto Scaling → data tier. Custom VPC with network segmentation, security group chaining, CloudWatch monitoring, and Infrastructure-as-Code with Terraform.
 
-`AWS` `VPC` `EC2` `Auto Scaling` `ALB` `CloudWatch`
+**Key Feature:** Fully automated scaling and high availability across multiple availability zones.
+
+`AWS` `VPC` `EC2` `Auto Scaling` `ALB` `CloudWatch` `Terraform`
 
 ---
 
@@ -80,6 +96,14 @@ Production-grade AWS 3-tier architecture: internet-facing ALB → 6 Node.js EC2 
 
 ---
 
+## Let's Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/ericborba)
+- 📧 [eric.borba@gmail.com](mailto:eric.borba@gmail.com)
+- 🔗 Open to ML Engineering, MLOps, and Cloud Infrastructure roles
+
+---
+
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=EricBorba&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150"/>
@@ -87,3 +111,7 @@ Production-grade AWS 3-tier architecture: internet-facing ALB → 6 Node.js EC2 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EricBorba&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
 
 </div>
+
+---
+
+<p align="center">Last updated: May 2026 | <a href="https://github.com/EricBorba?tab=repositories">View all repositories</a></p>
