@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=AI+Researcher+%E2%86%92+AI+Engineer+%E2%86%92+MLOps+Architect" alt="typing animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=AI+Researcher+%E2%86%92+AI+Engineer+[...]
 
 <h2>Eric Borba</h2>
 
@@ -28,7 +28,7 @@
 AI Research (PhD)  →  ML Engineering  →  Cloud Infrastructure for AI (AWS · Terraform)
 ```
 
-Started in academia studying how systems fail — modeling SSD and HDD reliability at HPC scale, published at ARCS 2024, funded by the EU Horizon 2020 IO-SEA project. That work pushed me toward engineering production-grade ML systems on cloud infrastructure. 
+Started in academia studying how systems fail — modeling SSD and HDD reliability at HPC scale, published at ARCS 2024, funded by the EU Horizon 2020 IO-SEA project. That work pushed me toward en[...]
 
 I bridge the gap between research innovation and real-world deployment. My focus: building reliable, scalable systems that turn cutting-edge ML into production-grade infrastructure.
 
@@ -62,7 +62,7 @@ I bridge the gap between research innovation and real-world deployment. My focus
 ## Featured Projects
 
 ### 🔬 [StorageFailurePredictor](https://github.com/EricBorba/StorageFailurePredictor)
-ML-driven reliability analysis of SSD and HDD failure in HPC burst buffers. Uses SMART telemetry from ~1M Alibaba SSDs and Backblaze HDDs to dynamically predict Mean Time to Failure (MTTF) using Random Forest and LSTM models.
+ML-driven reliability analysis of SSD and HDD failure in HPC burst buffers. Uses SMART telemetry from ~1M Alibaba SSDs and Backblaze HDDs to dynamically predict Mean Time to Failure (MTTF) using R[...]
 
 **Key Achievement:** Achieved 94% prediction accuracy, enabling proactive storage maintenance in high-performance computing environments.
 
@@ -71,7 +71,7 @@ ML-driven reliability analysis of SSD and HDD failure in HPC burst buffers. Uses
 ---
 
 ### 🚗 [AccidentPredictorApp](https://github.com/EricBorba/AccidentPredictorApp)
-End-to-end ML application that forecasts monthly road accident occurrences using Munich open traffic data. Trained, serialized, and served via a REST API — containerized with Docker and deployed to Heroku for public access.
+End-to-end ML application that forecasts monthly road accident occurrences using Munich open traffic data. Trained, serialized, and served via a REST API — containerized with Docker and deployed[...]
 
 **Impact:** Demonstrates full ML pipeline: data preprocessing → model training → API serving → cloud deployment.
 
@@ -80,7 +80,7 @@ End-to-end ML application that forecasts monthly road accident occurrences using
 ---
 
 ### ☁️ [three-tier-architecture-aws](https://github.com/EricBorba/three-tier-architecture-aws)
-Production-grade AWS 3-tier architecture: internet-facing ALB → 6 Node.js EC2 instances across 2 AZs with Auto Scaling → data tier. Custom VPC with network segmentation, security group chaining, CloudWatch monitoring, and Infrastructure-as-Code with Terraform.
+Production-grade AWS 3-tier architecture: internet-facing ALB → 6 Node.js EC2 instances across 2 AZs with Auto Scaling → data tier. Custom VPC with network segmentation, security group chainin[...]
 
 **Key Feature:** Fully automated scaling and high availability across multiple availability zones.
 
@@ -106,9 +106,9 @@ Production-grade AWS 3-tier architecture: internet-facing ALB → 6 Node.js EC2 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=EricBorba&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150"/>
+![GitHub Stats](https://img.shields.io/badge/GitHub_Stats-Available-brightgreen?style=flat-square&logo=github)
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EricBorba&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+![Top Languages](https://img.shields.io/badge/Top_Languages-Available-blue?style=flat-square&logo=github)
 
 </div>
 
