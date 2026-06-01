@@ -51,9 +51,14 @@ I bridge the gap between research innovation and real-world deployment. My focus
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![ECS Fargate](https://img.shields.io/badge/ECS_Fargate-FF9900?style=flat-square&logo=amazon-ecs&logoColor=white)
+![Lambda](https://img.shields.io/badge/Lambda-FF9900?style=flat-square&logo=aws-lambda&logoColor=white)
+![RDS](https://img.shields.io/badge/RDS-527FFF?style=flat-square&logo=amazon-rds&logoColor=white)
 ![EC2](https://img.shields.io/badge/EC2-FF9900?style=flat-square&logo=amazon-ec2&logoColor=white)
 ![VPC](https://img.shields.io/badge/VPC-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F8B?style=flat-square&logoColor=white)
+![SNS](https://img.shields.io/badge/SNS-FF4F8B?style=flat-square&logo=amazon-aws&logoColor=white)
 ![IAM](https://img.shields.io/badge/IAM-DD344C?style=flat-square&logo=amazon-aws&logoColor=white)
 ![S3](https://img.shields.io/badge/S3-569A31?style=flat-square&logo=amazon-s3&logoColor=white)
 
@@ -88,11 +93,20 @@ Production-grade AWS 3-tier architecture: internet-facing ALB → 6 Node.js EC2 
 
 ---
 
+### 📊 [ce-project-2-instrumented-monitored-service](https://github.com/EricBorba/ce-project-2-instrumented-monitored-service)
+Production-grade observability stack on AWS. Order processing API (FastAPI + ECS Fargate + RDS PostgreSQL) with structured JSON logging, 8 custom CloudWatch metrics, Golden Signal dashboards, tiered alerting via SNS, Lambda auto-remediation, FinOps cost monitoring, and AI-powered incident analysis using CrewAI. Entire infrastructure as code with Terraform, deployed via GitHub Actions CI/CD.
+
+**Key Feature:** Three failure injection scenarios (error flood, high latency, CPU spike) — each diagnosed using the CloudWatch correlation view and remediated automatically by Lambda, closing the alert loop without human intervention.
+
+`Python` `FastAPI` `ECS Fargate` `RDS PostgreSQL` `CloudWatch` `Lambda` `SNS` `Terraform` `GitHub Actions` `CrewAI`
+
+---
+
 ## Currently
 
-- 📖 Studying **AWS Solutions Architect** — VPC, IAM, EC2, RDS, S3, Lambda, CloudFront
 - 📜 Pursuing **HashiCorp Terraform Associate** certification
-- 🔍 Exploring MLOps: model serving infrastructure, cost optimization, distributed training on cloud
+- 🔍 Deepening MLOps: model serving infrastructure, cost optimisation, distributed training on cloud
+- 🏗️ Building production-ready AI services on AWS — containerised, observable, and infrastructure-as-code
 
 ---
 
@@ -114,4 +128,4 @@ Production-grade AWS 3-tier architecture: internet-facing ALB → 6 Node.js EC2 
 
 ---
 
-<p align="center">Last updated: May 2026 | <a href="https://github.com/EricBorba?tab=repositories">View all repositories</a></p>
+<p align="center">Last updated: June 2026 | <a href="https://github.com/EricBorba?tab=repositories">View all repositories</a></p>
