@@ -2,9 +2,9 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3500&pause=1000&color=00D4FF&center=true&vCenter=true&width=760&lines=AI+Researcher+%E2%86%92+AI+Engineer;ML+Systems+Engineer;Cloud+Infrastructure+for+AI" alt="Eric Borba — AI Engineer & Cloud Infrastructure" />
 
-# Eric Borba
+<h1>Eric Borba</h1>
 
-**_I work where AI meets infrastructure — because great models need great plumbing._**
+<strong><em>I work where AI meets infrastructure — because great models need great plumbing.</em></strong>
 
 <br>
 
