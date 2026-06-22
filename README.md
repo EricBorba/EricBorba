@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3500&pause=1000&color=00D4FF&center=true&vCenter=true&width=760&lines=AI+Researcher+%E2%86%92+AI+Engineer;ML+Systems+Engineer;Cloud+Infrastructure+for+AI" alt="Eric Borba — AI Engineer & Cloud Infrastructure" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3500&pause=1000&color=00D4FF&center=true&vCenter=true&width=760&lines=AI+Cloud+Engineer;AIOps+%C2%B7+Observability+%C2%B7+FinOps+on+AWS;AI+Researcher+%E2%86%92+Engineer+%E2%86%92+Cloud" alt="Eric Borba — AI Cloud Engineer" />
 
 <h1>Eric Borba</h1>
 
@@ -21,28 +21,19 @@
 ## The Stack I'm Building
 
 ```text
-AI Research (PhD)  →  ML Engineering  →  Cloud Infrastructure for AI
-                                         (AWS · Terraform · Observability)
+AI Research (PhD)  →  ML / AI Engineering  →  Cloud Engineering + AIOps
+                                              (AWS · Terraform · Observability · FinOps)
 ```
 
 Started in academia studying **how systems fail** — modeling SSD and HDD reliability at HPC scale, published at **ARCS 2024**, funded by the **EU Horizon 2020 IO-SEA** project. That work pushed me toward engineering resilient systems at scale.
 
-Today I bridge research and deployment: building reliable, **observable**, scalable systems that turn cutting-edge ML into production-grade infrastructure.
+From there I shipped AI/ML systems to production, then completed the **Ironhack Cloud Engineering Bootcamp** to own the layer underneath them: **AWS** infrastructure-as-code, CI/CD, observability, security and FinOps. Today I build **AI-powered cloud platforms** — where AIOps agents don't just *watch* infrastructure, they **act** on it under a human-in-the-loop.
 
-> **The goal:** speak fluent ML *and* fluent AWS — own the full path from research to production.
+> **The goal:** a Cloud Engineer who speaks fluent **AWS** *and* fluent **AI** — owning the full path from research to production infrastructure.
 
 ---
 
 ## Tech Stack
-
-**AI &amp; Machine Learning**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-189AB4?style=flat-square&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![CrewAI](https://img.shields.io/badge/CrewAI-FF5A5F?style=flat-square&logoColor=white)
 
 **Cloud &amp; Infrastructure**
 
@@ -51,11 +42,23 @@ Today I bridge research and deployment: building reliable, **observable**, scala
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 ![ECS Fargate](https://img.shields.io/badge/ECS_Fargate-FF9900?style=flat-square&logo=amazon-ecs&logoColor=white)
 ![Lambda](https://img.shields.io/badge/Lambda-FF9900?style=flat-square&logo=aws-lambda&logoColor=white)
+![CloudFront](https://img.shields.io/badge/CloudFront-8C4FFF?style=flat-square&logo=amazon-cloudfront&logoColor=white)
 ![CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F8B?style=flat-square&logoColor=white)
 ![RDS](https://img.shields.io/badge/RDS-527FFF?style=flat-square&logo=amazon-rds&logoColor=white)
 ![VPC](https://img.shields.io/badge/VPC-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![IAM](https://img.shields.io/badge/IAM-DD344C?style=flat-square&logo=amazon-aws&logoColor=white)
 ![S3](https://img.shields.io/badge/S3-569A31?style=flat-square&logo=amazon-s3&logoColor=white)
+![WAF](https://img.shields.io/badge/WAF-DD344C?style=flat-square&logo=amazon-aws&logoColor=white)
+
+**AI &amp; Machine Learning**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Amazon Bedrock](https://img.shields.io/badge/Amazon_Bedrock-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![CrewAI](https://img.shields.io/badge/CrewAI-FF5A5F?style=flat-square&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-189AB4?style=flat-square&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
 **Languages, Data &amp; Tooling**
 
@@ -63,6 +66,7 @@ Today I bridge research and deployment: building reliable, **observable**, scala
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Auth0](https://img.shields.io/badge/Auth0-EB5424?style=flat-square&logo=auth0&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
@@ -70,12 +74,12 @@ Today I bridge research and deployment: building reliable, **observable**, scala
 
 ## Featured Projects
 
-### 📊 [Instrumented &amp; Monitored Cloud Service](https://github.com/EricBorba/ce-project-2-instrumented-monitored-service)
-Production-grade **observability** stack on AWS. An order-processing API (FastAPI · ECS Fargate · RDS) with structured JSON logging, 8 custom CloudWatch metrics, Golden-Signal dashboards, tiered SNS alerting, **Lambda auto-remediation**, FinOps cost monitoring, and AI-powered incident analysis via CrewAI — all infrastructure-as-code with Terraform and shipped through GitHub Actions.
+### 🤖 [AIOps Observability Platform](https://github.com/EricBorba/ce-capstone-aiops-observability-platform) &nbsp;·&nbsp; *Cloud Engineering Capstone*
+A production AWS platform whose core value is an **intelligent operations layer**: CrewAI agents on **Amazon Bedrock** that analyze live infrastructure and take **supervised actions** on it under a **3-tier human-in-the-loop** trust model (analysis · autonomous non-prod · approval-gated). Built on full observability (structured logging, custom CloudWatch metrics, Golden-Signal dashboards, tiered alerting), edge security (CloudFront + WAF + GuardDuty + Config/CloudTrail), an Auth0-authenticated operator console, and FinOps cost controls — all **Terraform** IaC, shipped through **GitHub Actions** (OIDC, no static keys). Deployed and verified in `us-east-1` across 3 AZs.
 
-> **Highlight:** three injected failure scenarios (error flood, high latency, CPU spike), each diagnosed from the CloudWatch correlation view and remediated automatically by Lambda — closing the alert loop with no human in it.
+> **Highlight:** a live operator console with **Approve / Reject** buttons — the human-in-the-loop, demoed end-to-end. ~$145/mo prod run-rate with deliberate FinOps trade-offs. &nbsp;🖥️ [**Live console**](https://d2dp4bm5fu76cq.cloudfront.net)
 
-`FastAPI` `ECS Fargate` `RDS` `CloudWatch` `Lambda` `SNS` `Terraform` `GitHub Actions` `CrewAI`
+`Bedrock` `CrewAI` `ECS Fargate` `RDS` `CloudFront` `WAF` `CloudWatch` `Lambda` `Auth0` `Terraform` `GitHub Actions`
 
 ---
 
@@ -88,6 +92,15 @@ Production-grade AWS 3-tier architecture: internet-facing ALB → 6 Node.js EC2 
 
 ---
 
+### 📊 [Instrumented &amp; Monitored Cloud Service](https://github.com/EricBorba/ce-project-2-instrumented-monitored-service)
+The observability foundation the capstone grew from. An order-processing API (FastAPI · ECS Fargate · RDS) with structured JSON logging, 8 custom CloudWatch metrics, Golden-Signal dashboards, tiered SNS alerting, **Lambda auto-remediation**, FinOps cost monitoring, and AI-powered incident analysis via CrewAI — all Terraform IaC, shipped through GitHub Actions.
+
+> **Highlight:** three injected failure scenarios (error flood, high latency, CPU spike), each diagnosed from the CloudWatch correlation view and remediated automatically by Lambda — closing the alert loop with no human in it.
+
+`FastAPI` `ECS Fargate` `RDS` `CloudWatch` `Lambda` `SNS` `Terraform` `CrewAI`
+
+---
+
 ### 🔬 [Storage Failure Predictor](https://github.com/EricBorba/StorageFailurePredictor)
 ML-driven reliability analysis of SSD and HDD failure in HPC burst buffers. Uses SMART telemetry from ~1M Alibaba SSDs and Backblaze HDDs to predict Mean Time to Failure with Random Forest and LSTM models.
 
@@ -97,12 +110,7 @@ ML-driven reliability analysis of SSD and HDD failure in HPC burst buffers. Uses
 
 ---
 
-### 🚗 [Accident Predictor App](https://github.com/EricBorba/AccidentPredictorApp)
-End-to-end ML application forecasting monthly road-accident occurrences from Munich open traffic data — trained, serialized, and served via a REST API, containerized with Docker and deployed to the cloud.
-
-> **Highlight:** the full ML pipeline in one repo — preprocessing → training → API serving → deployment.
-
-`Python` `Flask` `Docker` `scikit-learn`
+> 🧪 **Plus 30+ hands-on labs** from the Ironhack Cloud Engineering Bootcamp — Terraform &amp; GitOps workflows, FinOps cost optimization (EC2 scheduling −67%, VPC endpoints −$297/yr), and security &amp; compliance (CIS, WAF, Config, Vault). [Browse the `ce-` repos →](https://github.com/EricBorba?tab=repositories&q=ce-)
 
 ---
 
@@ -122,15 +130,16 @@ End-to-end ML application forecasting monthly road-accident occurrences from Mun
 
 ## Currently
 
-- 📜 Pursuing the **HashiCorp Terraform Associate** certification
+- 🎓 Completed the **Ironhack Cloud Engineering Bootcamp** — capstone: the AIOps Observability Platform above
+- 📜 Preparing the **AWS Certified Cloud Practitioner** and **HashiCorp Terraform Associate** certifications
 - 🏗️ Building production-ready AI services on AWS — containerized, observable, infrastructure-as-code
-- 🔍 Going deeper on **MLOps**: model serving, cost optimization, and distributed training on cloud
+- 🔍 Going deeper on **AIOps, FinOps and MLOps**: agentic operations, cost optimization, and model serving on cloud
 
 ---
 
 <div align="center">
 
-**Open to ML Engineering · MLOps · Cloud Infrastructure roles**
+**Open to Cloud Engineer · Cloud Ops · DevOps · AIOps roles — including internships**
 
 <sub>Last updated June 2026 · <a href="https://github.com/EricBorba?tab=repositories">View all repositories →</a></sub>
 
