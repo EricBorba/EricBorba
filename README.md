@@ -131,7 +131,7 @@ ML-driven reliability analysis of SSD and HDD failure in HPC burst buffers. Uses
 ## Currently
 
 - 🎓 Completed the **Ironhack Cloud Engineering Bootcamp** — capstone: the AIOps Observability Platform above
-- 📜 Preparing the **AWS Certified Cloud Practitioner** and **HashiCorp Terraform Associate** certifications
+- 📜 Preparing the **AWS Certified Solutions Architect – Associate** and **HashiCorp Terraform Associate** certifications
 - 🏗️ Building production-ready AI services on AWS — containerized, observable, infrastructure-as-code
 - 🔍 Going deeper on **AIOps, FinOps and MLOps**: agentic operations, cost optimization, and model serving on cloud
 
