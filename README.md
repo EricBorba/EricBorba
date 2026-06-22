@@ -42,7 +42,7 @@ From there I shipped AI/ML systems to production, then completed the **Ironhack 
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 ![ECS Fargate](https://img.shields.io/badge/ECS_Fargate-FF9900?style=flat-square&logo=amazon-ecs&logoColor=white)
 ![Lambda](https://img.shields.io/badge/Lambda-FF9900?style=flat-square&logo=aws-lambda&logoColor=white)
-![CloudFront](https://img.shields.io/badge/CloudFront-8C4FFF?style=flat-square&logo=amazon-cloudfront&logoColor=white)
+![CloudFront](https://img.shields.io/badge/CloudFront-8C4FFF?style=flat-square&logo=amazon-aws&logoColor=white)
 ![CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F8B?style=flat-square&logoColor=white)
 ![RDS](https://img.shields.io/badge/RDS-527FFF?style=flat-square&logo=amazon-rds&logoColor=white)
 ![VPC](https://img.shields.io/badge/VPC-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
@@ -53,7 +53,7 @@ From there I shipped AI/ML systems to production, then completed the **Ironhack 
 **AI &amp; Machine Learning**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Amazon Bedrock](https://img.shields.io/badge/Amazon_Bedrock-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![Amazon Bedrock](https://img.shields.io/badge/Amazon_Bedrock-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
 ![CrewAI](https://img.shields.io/badge/CrewAI-FF5A5F?style=flat-square&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-189AB4?style=flat-square&logoColor=white)
